@@ -1,0 +1,5 @@
+.vercel
+ga4_errors_*.csv
+ga4_errors_*.json
+ga4_validation_internal_summary_*.csv
+vercel.json
